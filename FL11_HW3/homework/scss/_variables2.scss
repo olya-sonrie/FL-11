@@ -1,8 +1,13 @@
 $backgroundImage: url(../img/m-h-night.jpg);
-$primaryColor: #ffffff;
-$secondaryColor: #2C2F3C;
 $fontFamily: 'Fresca', sans-serif;
-$colorMarker: #FF4E33;
-$backgroundButton: #E3AC00;
-$backgroundButtonDark: #bb8c00;
-$backgroundDark: #3B3F50;
+
+
+
+$colors: (
+  primaryColor:#ffffff,
+  secondaryColor: #2C2F3C,
+  colorMarker: #FF4E33,
+  backgroundButton: #E3AC00,
+  backgroundButtonDark: #bb8c00,
+  backgroundDark: #3B3F50
+);

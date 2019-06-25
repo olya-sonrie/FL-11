@@ -48,7 +48,8 @@ p {
     font-size: 16px;
     font-weight: 600;
     color: #fff;
-    cursor: pointer; }
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif; }
     .header_button:hover, .section_banner_button:hover {
       background: #bb8c00; }
 
